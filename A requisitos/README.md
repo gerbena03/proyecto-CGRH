@@ -13,6 +13,7 @@
 - Diego Ares, GitHub: [@diegote7](https://github.com/diegote7).
 - Fernando Gimenez Coria, GitHub: [@FernandoGC](https://github.com/FerCbr).
 - Raul Jara, GitHub: [@r-j28](https://github.com/r-j28).  
+- Laura Analia Brizuela, GitHub: [@gerbena03] (https://github.com/gerbena03).
 
 ### Informacion General
 
